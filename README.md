@@ -22,7 +22,7 @@ To run this project, install it locally using:
 - cd hello-rails-backend
 - bundle install
 - rails server
-- in your browser open url : https://localhost:3000 to view the app.
+- in your browser open url : https://localhost:3001 to view the app.
 - rails db:create db:migrate db:seed
 
 
