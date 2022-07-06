@@ -7,7 +7,7 @@
 
 ## Link to the front end
 
-[Hello React Front End](https://github.com/Gegardus/hello-react-front-end)
+[Hello React Front End](https://github.com/jerryowusu/hello-react-frontend)
 
  ## Built with
 Project is created with:
