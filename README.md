@@ -3,7 +3,11 @@
 # Hello Rails Backend
 
  ## General info
-  Implemented a connection between a Ruby on Rails back-end and React front-end in one application.
+  Implemented a connection between a Ruby on Rails back-end and React front-end.
+
+## Link to the front end
+
+[Hello React Front End](https://github.com/Gegardus/hello-react-front-end)
 
  ## Built with
 Project is created with:
